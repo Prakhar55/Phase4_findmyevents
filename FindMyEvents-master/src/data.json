@@ -1,0 +1,73 @@
+{
+  "placeInfo": [
+    {
+      "id": 1,
+      "headerTitle": "QuickStyle India Tour",
+      "headerSubTitle": "Be ready to dance along with Quick Style",
+      "Timings": "07:00 PM onwards",
+
+      "title": "QuickStyle India Tour",
+      "Date": "06 October ,2023",
+      "Highlights": "The Quick Style, one of the fastest rising stars of the international music scene, is coming back to India with a Bang! Catch them Live as they tour across Phoenix Malls.",
+      "place": "Liberty Square Phoenix Mall,Viman Nagar, Pune, Maharashtra, India",
+
+      "description": "The Quick Style is known for their unique mix of musical styles, ranging from soul, funk, and jazz to hip-hop, trap, and EDM. Come witness their genre-defying live performance, as they bring their energy and infectious vibes to the stage.",
+      "img": ".././images/media-desktop-quickstyle-india-tour-0-2023-8-16-t-5-50-50.avif"
+    },
+    {
+      "id": 2,
+      "headerTitle": "Zakir Khan Live",
+      "headerSubTitle": "Catch the Sakht Launda himself, Zakir Khan Live.",
+      "Timings": "07:00 PM onwards",
+
+      "Date": "27 Aug 2023 - 24 September 2023",
+      "Highlights": "After a massively successful special Tathastu, Zakir Khan is on the road with his new show!",
+      "place": "Multiple Venues, India",
+
+      "title": "Zakir Khan Live",
+      "description": "After the release of three massively popular specials, Haq Se Single (2017), Kaksha Gyarvi (2018), and Tathastu (2022), that sold 100,000+ tickets across the globe, Zakir Khan is on the road with his latest stand-up show. Zakir Khan has the ability to highlight comic elements in everyday life. He is known for his unique Indian style of comedy that involves him to catch on the emotions that are common to every Indian household.",
+      "img": ".././images/media-desktop-zakir-khan-live-0-2023-7-26-t-2-41-46.avif"
+    },
+    {
+      "id": 3,
+      "headerTitle": "INDEX Fair Mumbai",
+      "headerSubTitle": "India’s largest exhibition on Interiors, Architecture & Design",
+      "Timings": "10:00 AM - 6:00 PM",
+
+      "title": "INDEX Fair Mumbai",
+      "Date": "31 May-02 June ,2024",
+      "Highlights": "Index is a leading interior design exhibition in India for over 30 years, held every year in Mumbai, India, and also the country’s largest focused commercial platform on interiors, architecture, materials, and design, which brings together suppliers and buyers in a design atmosphere",
+      "place": "Mumbai - Jio World Convention Centre, Maharashtra, India",
+
+      "description": "Over the years, Index, as a pioneer interior design exhibition in India Index has evolved with the various sectors of architecture and interior design, observing national players grow in size, watching as international players enter the market, and doing business with both exhibitors and organizers to reach new heights in terms of volume and profits. The edition of Index in Mumbai received an overwhelming response with over 38,000 trade, architects, designers, builders and procurement teams from India and overseas attending the event this year. It was a lively platform for business development, industry networking and knowledge sharing. After Mumbai, Index expanded its reach to the National Capital Region and brought its formula for business success to Delhi’s Pragati Maidan. The trade fair was a huge success and was very well received with over 14000 visitors attending the fair.",
+      "img": ".././images/IndexFair.png"
+    },
+    {
+      "id": 4,
+      "headerTitle": "G20 SUMMIT",
+      "headerSubTitle": "Leaders of the Group of Twenty (G20) industrialized nations gather",
+      "Timings": "10:00 AM - 3:00 PM",
+
+      "Date": "9 - 10 September 2023",
+      "Highlights": "India holds the Presidency of the G20 from 1 December 2022 to 30 November 2023",
+      "place": "Pragati Maidan, New Delhi",
+      "title": "G20 SUMMIT",
+      "description": "The Group of Twenty (G20) is the premier forum for international economic cooperation. It plays an important role in shaping and strengthening global architecture and governance on all major international economic issues.",
+      "img": ".././images/13-india-g20-presidnecy-2023-G20-explainer-770x433.webp"
+    },
+    {
+      "id": 5,
+      "headerTitle": "Globe-Tech Engineering Expo",
+      "headerSubTitle": "Exhibition on Engineering Machinery - Machine Tools",
+      "Timings": "10:00 AM - 6:30 PM (Business)",
+
+      "Date": "23 May- 26 May 2024",
+      "Highlights": "Concurrent Show On Machine Tools, Automation & Robotics,  Seminars on various topics & one to one business meeting with Indian & International Participants,Promote your brand to more than 15,000+ business visitors,  Seminars on Current Topics related to your business",
+      "place": " Auto Cluster Exhibition Center, Pune, India",
+
+      "title": "Globe-Tech Engineering Expo",
+      "description": "Globe-Tech Engineering Expo is India's one of the largest SME gatherings on Engineering & Manufacturing products & services. It is an enormous platform to build cooperation between Manufacturers & their target Customers from all Industrial Sectors. GEE aims to promote the Indian Industry on international standard by bringing the manufacturers and end-users on this special forum. It will showcase the entire segment of Engineering Machinery, Machine Tools, Automation & Robotics, Instrumentation & Control, CNC Machines & SPM’s, Material Handling, Hydraulic & Pneumatic and many more. This show presents an unparalleled networking opportunity in the Engineering & Manufacturing Industry.",
+      "img": ".././images/Globe-Tech-Engineering-Expo-Web-Banner-2024-Final.png"
+    }
+  ]
+}
